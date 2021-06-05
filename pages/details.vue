@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col items-center justify-center min-h-screen my-24 text-center">
     <h1 class="block text-3xl title md:text-5xl xl:text-6xl">Details</h1>
-    <div class="w-1/2 mx-auto my-10 text-left">
+    <div class="w-4/5 md:w-1/2 mx-auto my-10 text-left">
       <h4 class="block text-lg font-bold title md:text-xl">Motivation</h4>
       <p class="my-2">
         Designed for high school students, Quantum Computing Initiative (QCI) is a 3-week introduction to quantum computing. Unlike other programs, QCI integrates both conceptual and hands-on learning, allowing students to deeply engage with the subject. QCI covers the intuition, physics, mathematics, and programming knowledge necessary for quantum computing in a way that is challenging yet accessible. Classes are free and run online!
@@ -20,7 +20,7 @@
       </p>
     </div>
     <a class="px-8 py-2 mx-2 text-indigo-800 border-2 border-indigo-500 rounded hover:bg-indigo-100" href="https://forms.gle/cSNSKn4v5odrHpRz9" target="_blank">Register</a>
-    <div class="my-5 text-left">
+    <div class="my-5 text-left w-4/5 md:w-auto">
       <ul>
         <li>3 weeks, 9 classes</li>
         <li>Mondays, Wednesdays, Fridays 5:00pm-6:30pm PST (GMT-7:00)</li>
